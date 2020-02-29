@@ -3,4 +3,4 @@ slides and other materials
 
 | Title                                                        | Detail                                           | Author | link                                                         |
 | ------------------------------------------------------------ | ------------------------------------------------ | ------ | ------------------------------------------------------------ |
-| Signed Network Embedding in Social Media（SDM2017） | xxx | Zhou xiaoxu   | [ppt]() |
+| Introduction about RL | The basics of RL, including the important elements and category of RL and some examples | Na Li  | [slide]() |
